@@ -7,3 +7,5 @@ Uso de la NotasAppJS
 6-para ver detalle de nota damos clic en la pestaña que tiene el nombre de la nota
 7-si deseamos eliminar una nota, damos en la pestaña con el nombre de la nota para seleccionarla.
 8-damos clic en eliminar 
+
+Nota: esta realizada con Manila Javascript vale la pena chequearla.
